@@ -1,0 +1,14 @@
+{
+  "name": "fancy_diver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atlasJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "write": "^0.3.3"
+  }
+}
